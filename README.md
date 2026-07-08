@@ -39,7 +39,7 @@ I'm actively working on developing core experiment competencies:
 
 ## 💼 Experience
 
-- **Research & publication:** First-authored a peer-reviewed paper on agentic AI in auditing ([*Die Wirtschaftsprüfung*, 17/2025](https://shop.idw-verlag.de/WPg-Die-Wirtschaftspruefung-17-2025/62517)), carried end-to-end from idea to print.
+- **Research & publication:** First-authored an article on agentic AI in auditing, reviewed and published in ([*Die Wirtschaftsprüfung*, 17/2025](https://shop.idw-verlag.de/WPg-Die-Wirtschaftspruefung-17-2025/62517)), a leading German professional and scientific journal for the auditing profession, published by IDW Verlag.
 - **AI / ML systems:** AI Product Development Engineer at audit.neo, developing an agent-workflow-driven service for financial audit-procedure automation. Focused on workflow design, LLM context engineering, and human-in-the-loop agent interactions.
 - **Data & automation at scale:** Senior Associate, Audit Technology at KPMG, automating workflows for multiple audit teams and building data pipelines in Alteryx with visualizations in Power BI.
 - **Teaching & communication:** Course instructor at DHBW, teaching data analytics in auditing and the integration of generative AI.
