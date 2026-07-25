@@ -32,7 +32,7 @@ I'm actively working on developing core experiment competencies:
 
 - **Seeking an academic mentor** to officially supervise my master's thesis on technical AI safety research (Q4 2026 to Q1 2027).
 - **Frankfurt AI Safety — reward-model interpretability** *(main technical contributor)*: Extending a published reward-model interpretability paper ([Fein et al., *One Bias After Another*](https://arxiv.org/pdf/2603.03291)) to measure and mechanistically remove demographic bias. Python/PyTorch pipelines implementing linear probes, null-space projection, and LEACE/MLP concept-erasure with controlled auto- and cross-influence metrics.
-- **Frankfurt AI Safety — LLM vulnerability analysis** *(main technical contributor)*: Building a reproducible Python (pandas/SciPy) pipeline that filters ~170k NVD CVEs to LLM-relevant ones, maps them to the OWASP-LLM taxonomy, and analyzes severity trends with robust statistics, testing whether model-card cyber-benchmarks predict real-world vulnerabilities.
+- **Frankfurt AI Safety — LLM vulnerability analysis** *(technical contributor)*: Building a reproducible Python (pandas/SciPy) pipeline that filters ~170k NVD CVEs to LLM-relevant ones, maps them to the OWASP-LLM taxonomy, and analyzes severity trends with robust statistics, testing whether model-card cyber-benchmarks predict real-world vulnerabilities.
 - **BlueDot Impact:** AGI Strategy course & Technical AI Safety course.
 - **Self-directed foundations:** Karpathy's *Neural Networks: Zero to Hero* (building micrograd / makemore / GPT from scratch); public learning repository.
 - **Recognition:** Studienstiftung des deutschen Volkes scholarship (2025 to 2027); B.A. in top 5% of cohort.
