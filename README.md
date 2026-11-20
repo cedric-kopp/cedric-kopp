@@ -17,17 +17,6 @@ I'm actively working on developing core experiment competencies:
 - Reducing a mid- or high-level idea to a minimal experiment that tests it
 - Trading off code quality against implementation speed for long-run productivity
 
-## 🧭 Target roles
-
-**Near-term trajectory:**
-
-- ML4Good Autumn Bootcamp 2026 (applying now)
-- ARENA 10.0, in-person ML and research upskilling (expected early 2027)
-- Part-time, unpaid, online fellowship, e.g. SPAR (early 2027)
-- Full-time, paid, on-site fellowship, e.g. MATS (mid-2027 onward)
-
-**Longer-term:** research fellow / scholar and research-engineer or research-assistant roles in interpretability, evaluations, or AI control.
-
 ## 🔬 Engagement with AI safety
 
 - **Seeking an academic mentor** to officially supervise my master's thesis on technical AI safety research (Q4 2026 to Q1 2027).
